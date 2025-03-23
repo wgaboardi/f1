@@ -15,7 +15,7 @@
   
   [![TypeScript version][ts-badge]][typescript-5-4]
   [![Node.js version][nodejs-badge]][nodejs]
-  Fastify <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/>
+  <img alt="Fastify" src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white"/>
 
 </div>
 
