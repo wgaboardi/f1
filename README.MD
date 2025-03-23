@@ -25,7 +25,7 @@ This code source was developed with the following items:
 
 ### 📦 Dependencies
 
-- [typescript][typescript-npm] - Superset for application scale JavaScript development
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/> [typescript-npm] - Superset for application scale JavaScript development
 - [tsx][tsx-npm] - TypeScript Execute (tsx): Enable Node.js to run TypeScript
 - [tsup][tsup-npm] - Bundle your TypeScript library with no config, powered by esbuild
 - [@types/node][@types/node-npm] - type definitions for node
